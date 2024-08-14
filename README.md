@@ -3,7 +3,8 @@
 
 Note: The icon is pixelated, and SVG format is not preferred.
 
-art draw by : @hiohlan
+art drawn by: [@hiohlan](https://github.com/hiohlan)
+
 ![example](docs/example.png)
 
 ## fcitx 4
